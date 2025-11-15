@@ -1,0 +1,5 @@
+{
+  "name": "Visual Product Matcher",
+  "description": "An intelligent web application that helps users discover visually similar products. Upload an image or provide a URL to find matching items from our curated product database, complete with similarity scores and filtering options.",
+  "requestFramePermissions": []
+}
